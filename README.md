@@ -1,4 +1,4 @@
-🛡️ Cyber Crime Detection using Hybrid AIS + HSA Optimization
+🛡️ Cyber Crime Detection using Hybrid AIS + HSA Optimization.
 A Meta-Heuristic Driven Neural Network Model for Predicting Cyber Crime Trends
 
 This project demonstrates an AI-powered Cyber Crime Detection System built using a Hybrid AIS + HSA optimization algorithm.
