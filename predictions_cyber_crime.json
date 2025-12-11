@@ -1,0 +1,34 @@
+[
+    {
+        "Actual":77.1,
+        "Predicted":0.8769857883
+    },
+    {
+        "Actual":91.3,
+        "Predicted":0.8638983369
+    },
+    {
+        "Actual":80.4,
+        "Predicted":0.9224276543
+    },
+    {
+        "Actual":75.3,
+        "Predicted":1.1354695559
+    },
+    {
+        "Actual":54.4,
+        "Predicted":0.8760234118
+    },
+    {
+        "Actual":71.5,
+        "Predicted":0.8563883901
+    },
+    {
+        "Actual":89.8,
+        "Predicted":1.0378811359
+    },
+    {
+        "Actual":90.6,
+        "Predicted":0.9738074541
+    }
+]
